@@ -12,5 +12,6 @@ I worked for LAUSD (Los Angeles Unified School District) as an associate project
 I have a few ideas for projects that I want to build, but (given my work and school schedule) I have elected to postpone them until I am able to have a few things:
 - time
 - money to fund my projects
-- a place to store and create all my projects 
+- a place to store and create all my projects
+
 Outside of that, I like to play video games (primarily Monster Hunter World) and cook.
